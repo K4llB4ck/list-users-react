@@ -1,10 +1,15 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Mock API
 
 El proyecto cuenta con un API simulada
+
+## Datos de sesión
+
+Para el login se debe hacer con los siguientes datos: 
+correo: admin@gmail.com
+Contraseña: admin
+
 
 ### `npm run api-server`
 Corre el servidor API en el puerto [http://localhost:3001](http://localhost:3001)
