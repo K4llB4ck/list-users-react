@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Mock API
+
+El proyecto cuenta con un API simulada
+
+### `npm run api-server`
+Corre el servidor API en el puerto [http://localhost:3001](http://localhost:3001)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
