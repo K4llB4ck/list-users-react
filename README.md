@@ -6,9 +6,9 @@ El proyecto cuenta con un API simulada
 
 ## Datos de sesión
 
-Para el login se debe hacer con los siguientes datos: 
-correo: admin@gmail.com
-Contraseña: admin
+Para el login se debe hacer con los siguientes datos.\
+correo: admin@gmail.com.\
+Contraseña: admin.\
 
 
 ### `npm run api-server`
